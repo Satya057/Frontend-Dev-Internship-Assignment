@@ -5,7 +5,7 @@
 
 The objective of this project is to build a responsive website that showcases upcoming and recommended events. The website fetches event data from provided APIs and ensures compatibility with both desktop and mobile screen sizes.
 
-[demo link]([https://docs.google.com/document/u/0/d/1G7KEJTCsgZzvzqVqmg23Zw7wDYm3Ioai597U6749ntU/mobilebasic](https://66094ae0bd2016b1e278b3c3--precious-nougat-427e7f.netlify.app/))
+[demo link](https://docs.google.com/document/u/0/d/1G7KEJTCsgZzvzqVqmg23Zw7wDYm3Ioai597U6749ntU/mobilebasic](https://66094ae0bd2016b1e278b3c3--precious-nougat-427e7f.netlify.app/)
 
 ### Getting Started
 
