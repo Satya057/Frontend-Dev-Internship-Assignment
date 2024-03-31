@@ -1,5 +1,5 @@
 # Frontend-Dev-Internship-Assignment
-## Frontend Developer Internship Assignment
+ 
 
 ### Objective
 
